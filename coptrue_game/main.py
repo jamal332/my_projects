@@ -5,6 +5,7 @@
 
 #Features:
 #**Speed ​​increases as you progress through the game.**
+
 ## How to run
 
 #1. Make sure you have Python 3.6 or higher installed.
